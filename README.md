@@ -1,4 +1,4 @@
-# **Dense Video Captioning Using Unsupervised Semantic Information**
+# **Tell me what you see: A zero-shot action recognition method based on natural language descriptions**
 
 ## **Summary**
 
