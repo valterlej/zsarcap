@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+data/wiki_bigrams.bin
+__pycache__
+.vector_cache
+.vscode
+model/sent2vec
