@@ -2,7 +2,7 @@
 
 ## **Summary**
 
-This repository contains the implementation for the paper "Tell me what you see: A zero-shot action recognition method based on natural language descriptions" [ArXiv link](https://arxiv.org/abs/2112.09976).
+This repository contains the implementation for the paper "Tell me what you see: A zero-shot action recognition method based on natural language descriptions" [Multimedia Tools and Applications](https://doi.org/10.1007/s11042-023-16566-5).
 
 As shown in Figure 1, several captioning models (called observers) watch the videos and provide a sentence description. These descriptions are projected onto a semantic space shared with textual descriptions for each action class.
 
@@ -159,11 +159,13 @@ For the complete list, see the paper.
 Our paper is available on arXiv. Please, use this BibTeX if you would like to cite our work.
 
 ```latex
-@article{estevam:2021
-author = {Estevam, V. and Laroca, R. and Pedrini, H. and Menotti, D.},
-title = {Tell me what you see: {A} zero-shot action recognition method based on natural language descriptions},
-journal = {CoRR},
-year = {2021},
-url = {https://arxiv.org/abs/2112.09976}
+@article{estevam2023tell,
+  title = {Tell me what you see: A zero-shot action recognition method based on natural language descriptions},
+  author = {V. {Estevam} and R. {Laroca} and H. {Pedrini} and D. {Menotti}},
+  year = {2023},
+  journal = {Multimedia Tools and Applications},
+  pages = {1-27},
+  doi = {10.1007/s11042-023-16566-5},
+  issn = {1573-7721}
 }
 ```
