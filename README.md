@@ -159,12 +159,14 @@ For the complete list, see the paper.
 Our paper is available on arXiv. Please, use this BibTeX if you would like to cite our work.
 
 ```latex
-@article{estevam2023tell,
+@article{estevam2024tell,
   title = {Tell me what you see: A zero-shot action recognition method based on natural language descriptions},
   author = {V. {Estevam} and R. {Laroca} and H. {Pedrini} and D. {Menotti}},
-  year = {2023},
+  year = {2024},
   journal = {Multimedia Tools and Applications},
-  pages = {1-27},
+  volume = {83},
+  number = {9},
+  pages = {28147-28173},
   doi = {10.1007/s11042-023-16566-5},
   issn = {1573-7721}
 }
